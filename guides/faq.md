@@ -6,6 +6,16 @@ description: Frequently Asked Questions
 
 <details>
 
+<summary>What is The Casino?</summary>
+
+Feel free to check out the Commands page for details on this!
+
+[commands](commands/ "mention")
+
+</details>
+
+<details>
+
 <summary>Who created The Casino?</summary>
 
 [PyCord](https://discordapp.com/users/547475078082985990) did!
@@ -38,8 +48,10 @@ Yes there is! Click [HERE](https://discord.gg/ggUksVN) to join it. You can use t
 
 <details>
 
-<summary></summary>
+<summary> What is voting and why should I do it?</summary>
 
+Voting helps the bot gain attention!
 
+In exchange for voting, you will get 8,500 coins and a Voter Chip added to your [Inventory](commands/shop-inventory.md)!
 
 </details>
