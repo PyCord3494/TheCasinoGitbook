@@ -8,7 +8,7 @@
 
 Grants a 1.5x profit multiplier on most games for 2.5 hours.
 
-Can also be used on your rewards, such as /daily /weekly /monthly
+Can also be used on your [earning.md](../commands/earning.md "mention") commands
 
 </details>
 
