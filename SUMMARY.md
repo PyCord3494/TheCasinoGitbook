@@ -20,6 +20,9 @@
   * [💼 Shop/Inventory](guides/commands/shop-inventory.md)
 * [Items](guides/items/README.md)
   * [Item List](guides/items/item-list.md)
+  * [Collectibles](guides/items/collectibles.md)
+  * [Usables](guides/items/usables.md)
+  * [Tools](guides/items/tools.md)
 
 ***
 
