@@ -16,8 +16,6 @@ layout:
 
 Donating grants special privileges&#x20;
 
-
-
 <details>
 
 <summary>Perks</summary>
@@ -26,8 +24,18 @@ Donating grants special privileges&#x20;
 
 **0% fee** when sending coins to users
 
-</details>
-
 
 
 <mark style="color:green;">Lifetime perks!</mark> Your perks will **never** expire
+
+</details>
+
+<details>
+
+<summary>How To Donate</summary>
+
+We accept all kinds, from CashApp to Venmo to Paypal!&#x20;
+
+Please join the [support server](https://discord.gg/ggUksVN) and talk to PyCord for more information!
+
+</details>
