@@ -26,7 +26,7 @@
 
 ***
 
-* [Page](page.md)
+* [Donator](donator.md)
 
 ## Legal
 
