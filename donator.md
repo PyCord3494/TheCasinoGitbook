@@ -22,6 +22,10 @@ Donating grants special privileges&#x20;
 
 **TRIPLE** coin rewards for <mark style="color:green;">/daily</mark>
 
+**DOUBLE** coin rewards for <mark style="color:green;">/weekly</mark>
+
+**DOUBLE** coin rewards for <mark style="color:green;">/monthly</mark>
+
 **0% fee** when sending coins to users
 
 
