@@ -26,6 +26,11 @@
 
 ***
 
+* [Monopoly](monopoly/README.md)
+  * [FAQ](monopoly/faq.md)
+  * [Schedule](monopoly/schedule.md)
+  * [Tables](monopoly/tables.md)
+  * [People](monopoly/people.md)
 * [Donator](donator.md)
 
 ## Legal
