@@ -31,6 +31,8 @@
   * [Schedule](monopoly/schedule.md)
   * [Tables](monopoly/tables.md)
   * [People](monopoly/people.md)
+  * [Withdraw](monopoly/withdraw.md)
+  * [Stats](monopoly/stats.md)
 * [Donator](donator.md)
 
 ## Legal
