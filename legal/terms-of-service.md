@@ -1,6 +1,6 @@
 # 🖊 Terms of Service
 
-By using the The Casino Discord bot, you agree to be bound by the following Terms of Service. \
+By using the The Casino Discord bot, you agree to be bound by the following Terms of Service as well as [Discord's ToS](http://discord.com/tos). \
 These Terms apply to all users of the Bot, and your continued use signifies your acceptance of these Terms.
 
 ### 1. Eligibility

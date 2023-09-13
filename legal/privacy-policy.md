@@ -1,5 +1,8 @@
 # 📃 Privacy Policy
 
+By using the The Casino Discord bot, you agree to be bound by the following Privacy Policy as well as Discord's Privacy Policy. \
+These Policies apply to all users of the Bot, and your continued use signifies your acceptance of these Policies.
+
 This bot only keeps track of your Discord ID once you type the `/start` command.&#x20;
 
 This is used to associate your Discord account to everything in your `/profile`, `/totals`, and `/xp`.&#x20;
