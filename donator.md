@@ -26,7 +26,9 @@ Donating grants special privileges&#x20;
 
 **DOUBLE** coin rewards for <mark style="color:green;">/monthly</mark>
 
-**0% fee** when sending coins to users
+Give all users access to the <mark style="color:green;">/send</mark> command for **1 server**
+
+**0% fee** when people send you coins&#x20;
 
 
 
