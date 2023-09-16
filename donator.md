@@ -14,8 +14,6 @@ layout:
 
 # Donator
 
-Donating grants special privileges&#x20;
-
 <details>
 
 <summary>Perks</summary>
@@ -33,6 +31,8 @@ Give all users access to the <mark style="color:green;">/send</mark> command for
 
 
 <mark style="color:green;">Lifetime perks!</mark> Your perks will **never** expire
+
+A minimum amount of $10 is required for these perks
 
 </details>
 
