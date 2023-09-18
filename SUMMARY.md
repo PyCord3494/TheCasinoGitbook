@@ -26,6 +26,8 @@
 
 ***
 
+* [Bitcoin Miners](bitcoin-miners/README.md)
+  * [Upgrades](bitcoin-miners/upgrades.md)
 * [Monopoly](monopoly/README.md)
   * [FAQ](monopoly/faq.md)
   * [Schedule](monopoly/schedule.md)
