@@ -1,6 +1,29 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
 # 🗺 Roadmap
 
-* [ ] Add more Donator perks
+9/20
+
+* [x] Crypto miners
+* [x] Hangman
+* [x] Monopoly
+* [x] Poker
+
+8/1
+
+* [x] Add more Donator perks
 * [ ] Find stable use for upgrading in Miner
 * [x] Add fish and dig
 * [x] Add Horse
