@@ -26,7 +26,7 @@ layout:
 
 Give all users access to the <mark style="color:green;">/send</mark> command for **1 server**
 
-**0% fee** when people send you coins&#x20;
+Only a **10% fee** when <mark style="color:green;">you /send</mark> or <mark style="color:green;">people /send you</mark> coins&#x20;
 
 
 
