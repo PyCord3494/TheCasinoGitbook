@@ -2,7 +2,7 @@
 
 Miners are automated ways to make money.
 
-They cost 50,000 each and you can have a max of 3.
+First one costs 50,000. Each one after increases by 25,000. Max of 3 total.
 
 You can buy one with /crypto miner buy
 

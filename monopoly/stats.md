@@ -1,6 +1,6 @@
 # Stats
 
-`/withdraw stats`
+`/monopoly stats`
 
 This will display your [people.md](people.md "mention")'s earnings from the last game that occurred.
 
