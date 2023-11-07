@@ -40,8 +40,8 @@ A minimum amount of $10 is required for these perks
 
 <summary>How To Donate</summary>
 
-We accept all kinds, from CashApp to Venmo to Paypal!&#x20;
+We accept all kinds, from [CashApp](https://cash.app/$JNGraham) to [Venmo](https://venmo.com/justinis235) to [PayPal](https://www.paypal.com/paypalme/thecasinobot), even crypto!&#x20;
 
-Please join the [support server](https://discord.gg/ggUksVN) and talk to PyCord for more information!
+You must join the [support server](https://discord.gg/ggUksVN) to receive your benefits.&#x20;
 
 </details>
