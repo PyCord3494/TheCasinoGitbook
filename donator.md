@@ -14,6 +14,8 @@ layout:
 
 # Donator
 
+Minimum ~~$25~~ <mark style="color:green;">$10</mark> is required to receive perks!
+
 <details>
 
 <summary>Perks</summary>
@@ -39,8 +41,6 @@ Only a **10% fee** when <mark style="color:green;">you /send</mark> or <mark sty
 
 
 <mark style="color:green;">Lifetime perks!</mark> Your perks will **never** expire
-
-A minimum amount of $10 is required for these perks
 
 </details>
 
