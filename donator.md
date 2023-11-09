@@ -47,3 +47,15 @@ We accept all kinds, from [CashApp](https://cash.app/$JNGraham) to [Venmo](https
 You must join the [support server](https://discord.gg/ggUksVN) to receive your benefits.&#x20;
 
 </details>
+
+<details>
+
+<summary>Why Should I Donate?</summary>
+
+* Donating helps keep the bot alive.&#x20;
+  * It costs $150+ a year to keep and maintain the bot, databases, and website.&#x20;
+* It helps me (as I am the only developer) stay motivated to work on the bot
+  * Meaning more games, items, other features, etc.&#x20;
+* And also, you get the perks mentioned above!
+
+</details>
