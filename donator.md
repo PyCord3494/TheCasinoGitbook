@@ -18,6 +18,8 @@ layout:
 
 <summary>Perks</summary>
 
+**50,000** coins reward
+
 **NO COOLDOWNS** on most games
 
 **TRIPLE** coin rewards for <mark style="color:green;">/daily</mark>
@@ -28,7 +30,7 @@ layout:
 
 **EXCLUSIVE** daily reward command /donator&#x20;
 
-Special Donator role in the support server
+Special <mark style="color:green;">Donator</mark> role in the support server
 
 Give all users access to the <mark style="color:green;">/send</mark> command for **1 server,** with <mark style="color:green;">only</mark> a **20% fee**&#x20;
 
