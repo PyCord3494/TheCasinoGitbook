@@ -14,7 +14,7 @@ layout:
 
 # Donator
 
-Minimum ~~$25~~ <mark style="color:green;">$10</mark> is required to receive perks!
+Minimum ~~<mark style="color:red;">$25</mark>~~ <mark style="color:green;">**$10**</mark> is required to receive perks!
 
 <details>
 
@@ -30,9 +30,11 @@ Minimum ~~$25~~ <mark style="color:green;">$10</mark> is required to receive per
 
 **DOUBLE** coin rewards for <mark style="color:green;">/monthly</mark>
 
-**EXCLUSIVE** daily reward command /donator&#x20;
+**Exclusive** daily reward command <mark style="color:green;">/donator</mark>&#x20;
 
-Special <mark style="color:green;">Donator</mark> role in the support server
+Special <mark style="color:purple;">**Donator**</mark> role in the support server
+
+Higher support and suggestion priority
 
 Give all users access to the <mark style="color:green;">/send</mark> command for **1 server,** with <mark style="color:green;">only</mark> a **20% fee**&#x20;
 
