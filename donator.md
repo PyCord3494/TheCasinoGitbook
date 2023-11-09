@@ -28,6 +28,8 @@ layout:
 
 **EXCLUSIVE** daily reward command /donator&#x20;
 
+Special Donator role in the support server
+
 Give all users access to the <mark style="color:green;">/send</mark> command for **1 server,** with <mark style="color:green;">only</mark> a **20% fee**&#x20;
 
 Only a **10% fee** when <mark style="color:green;">you /send</mark> or <mark style="color:green;">people /send you</mark> coins&#x20;
