@@ -18,6 +18,8 @@ layout:
 
 <summary>Perks</summary>
 
+**NO COOLDOWNS** on most games
+
 **TRIPLE** coin rewards for <mark style="color:green;">/daily</mark>
 
 **DOUBLE** coin rewards for <mark style="color:green;">/weekly</mark>
