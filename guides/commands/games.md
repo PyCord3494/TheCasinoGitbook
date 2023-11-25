@@ -28,6 +28,19 @@ Usage[^3]
 
 <img src="../../.gitbook/assets/slots.png" alt="" data-size="original">
 
+
+
+**What's the Big Win?**
+
+The Big Win is a jackpot that starts at 25,000 credits, and increases by 2,500 every time someone loses.
+
+**How do I win it?**
+
+To win it, you need to get all 3 of the same fruit (about a 2% chance!)\
+
+
+
+
 </details>
 
 <details>
