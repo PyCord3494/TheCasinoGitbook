@@ -32,13 +32,15 @@ Minimum ~~<mark style="color:red;">$25</mark>~~ <mark style="color:green;">**$10
 
 **Exclusive** daily reward command <mark style="color:green;">/donator</mark>&#x20;
 
-Special <mark style="color:purple;">**Donator**</mark> role in the support server
-
-Higher support and suggestion priority
-
 Give all users access to the <mark style="color:green;">/send</mark> command for **1 server,** with <mark style="color:green;">only</mark> a **20% fee**&#x20;
 
 Only a **10% fee** when <mark style="color:green;">you /send</mark> or <mark style="color:green;">people /send you</mark> coins&#x20;
+
+**Max send/receive** amount is increased from 500,000 to **5,000,000**
+
+Special <mark style="color:purple;">**Donator**</mark> role in the support server
+
+Higher support and suggestion priority
 
 
 
