@@ -1,6 +1,8 @@
 # Usables
 
-## Game-Changing Items
+Game-Changing Items
+
+### Multipliers
 
 <details>
 
@@ -12,7 +14,29 @@ Can also be used on your [earning.md](../commands/earning.md "mention") commands
 
 </details>
 
+<details>
 
+<summary>Card Hands</summary>
+
+High Card - 2-hour 1.1x multiplier&#x20;
+
+One Pair - 2-hour 1.1x multiplier&#x20;
+
+Two Pair - 2-hour 1.15x multiplier&#x20;
+
+Straight - 2-hour 1.2x multiplier&#x20;
+
+Flush - 2-hour 1.3x multiplier&#x20;
+
+Full House - 1.5-hour 1.4x multiplier&#x20;
+
+Four of a Kind - 1-hour 1.5x multiplier&#x20;
+
+Straight Flush - 1-hour 1.6x multiplier&#x20;
+
+Royal Flush - 15-minute 1.75x multiplier
+
+</details>
 
 ## Specific Game-Changing Items
 
