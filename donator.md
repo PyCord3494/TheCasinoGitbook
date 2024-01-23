@@ -20,7 +20,7 @@ Minimum ~~<mark style="color:red;">$25</mark>~~ <mark style="color:green;">**$10
 
 <summary>Perks</summary>
 
-**50,000** coins reward
+**100,000** coins reward
 
 **NO COOLDOWNS** on most games
 
