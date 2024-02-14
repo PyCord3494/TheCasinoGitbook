@@ -14,7 +14,7 @@ layout:
 
 # Donator
 
-Minimum ~~<mark style="color:red;">$25</mark>~~ <mark style="color:green;">**$10**</mark> (new year discount!) is required to receive <mark style="color:green;">**LIFETIME**</mark> perks!
+Minimum ~~<mark style="color:red;">$25</mark>~~ <mark style="color:green;">**$10**</mark> (V-day discount!) is required to receive <mark style="color:green;">**LIFETIME**</mark> perks!
 
 <details>
 
