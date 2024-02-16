@@ -16,11 +16,11 @@ They will only work for you for 48 hours.&#x20;
 
 <summary>How much money does a Person make?</summary>
 
-10% chance they lose -500 to -2500
+10% chance they lose -500 to -750
 
 10% chance they break even
 
-80% chance they make a (random) number between 500 and 3000
+80% chance they make a (random) number between 500 and 1000
 
 </details>
 
