@@ -20,6 +20,8 @@ Minimum <mark style="color:red;">$25</mark> is required to receive <mark style="
 
 <summary>Perks</summary>
 
+**MAX BET** increased to **10,000,000 (**<mark style="color:red;">**900% increase!**</mark>**)**
+
 **100,000** coins reward
 
 **NO COOLDOWNS** on most games

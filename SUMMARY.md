@@ -6,9 +6,9 @@
 
 * [❓ FAQ](guides/faq.md)
 * [🤖 Commands](guides/commands/README.md)
-  * [🕹 Games](guides/commands/games.md)
+  * [🕹️ Games](guides/commands/games.md)
   * [🏧 Bank](guides/commands/bank.md)
-  * [ℹ Profile](guides/commands/profile.md)
+  * [ℹ️ Profile](guides/commands/profile.md)
   * [⭐ XP/Level, Stats, Badges](guides/commands/xp-level-stats-badges.md)
   * [💰 Earning](guides/commands/earning.md)
   * [💼 Shop/Inventory](guides/commands/shop-inventory.md)
@@ -33,9 +33,9 @@
 
 ## Legal
 
-* [🖊 Terms of Service](legal/terms-of-service.md)
+* [🖊️ Terms of Service](legal/terms-of-service.md)
 * [📃 Privacy Policy](legal/privacy-policy.md)
 
 ## misc
 
-* [🗺 Roadmap](misc/roadmap.md)
+* [🗺️ Roadmap](misc/roadmap.md)
