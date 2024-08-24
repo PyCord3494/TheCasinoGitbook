@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>What is this?</summary>
+<summary>What is this? How do I play?</summary>
 
 
 
