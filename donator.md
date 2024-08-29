@@ -50,6 +50,8 @@ Special <mark style="color:purple;">**Donator**</mark> role in the support serve
 
 Higher support and suggestion priority
 
+2,000 <mark style="color:blue;">Diamonds</mark> ($10 value!)
+
 
 
 <mark style="color:green;">Lifetime perks!</mark> Your perks will **never** expire
@@ -84,7 +86,7 @@ You must join the [support server](https://discord.gg/ggUksVN) to receive your b
 
 ***
 
-This is separate from Donator. Donator receives Diamonds (check in [Perks](donate.md#perks)), but you can also donate to receive Diamonds separately.&#x20;
+This is separate from Donator. Donator receives Diamonds (check in [Perks](donator.md#perks)), but you can also donate to receive Diamonds separately.&#x20;
 
 Packages are below.
 
