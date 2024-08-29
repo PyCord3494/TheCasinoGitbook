@@ -29,7 +29,7 @@
   * [People](monopoly/people.md)
   * [Withdraw](monopoly/withdraw.md)
   * [Stats](monopoly/stats.md)
-* [Donator](donator.md)
+* [Donate](donate.md)
 
 ## Legal
 
