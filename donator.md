@@ -88,7 +88,7 @@ You must join the [support server](https://discord.gg/ggUksVN) to receive your b
 
 This is separate from Donator. Donator receives Diamonds (check in [Perks](donator.md#perks)), but you can also donate to receive Diamonds separately.&#x20;
 
-Packages are below.
+Packages are below. [How to purchase?](donator.md#how-to-donate)
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Basket of Diamonds</td><td>2,000</td><td>$10</td><td><a href=".gitbook/assets/basketOfDiamonds2.jpg">basketOfDiamonds2.jpg</a></td></tr><tr><td>Bag of Diamonds</td><td>3,500 (500 free!)</td><td>$15</td><td><a href=".gitbook/assets/bagOfDiamonds2.jpg">bagOfDiamonds2.jpg</a></td></tr><tr><td>Trophy of Diamonds</td><td>5,000 (1,000 free!)</td><td>$20</td><td><a href=".gitbook/assets/trophyOfDiamonds2.png">trophyOfDiamonds2.png</a></td></tr><tr><td>Case of Diamonds</td><td>6,500 (1,500 free!)</td><td>$25</td><td><a href=".gitbook/assets/caseOfDiamonds2.png">caseOfDiamonds2.png</a></td></tr><tr><td>Vault of Diamonds</td><td>15,000 (1,500 free!)</td><td>$50</td><td><a href=".gitbook/assets/vaultOfDiamonds2.jpg">vaultOfDiamonds2.jpg</a></td></tr></tbody></table>
 
