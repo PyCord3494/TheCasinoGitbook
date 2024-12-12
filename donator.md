@@ -20,7 +20,7 @@ layout:
 
 This is a permanent rank that can be obtained through donating.
 
-Minimum ~~<mark style="color:red;">$25</mark>~~ <mark style="color:red;"></mark><mark style="color:red;">$12.50</mark> is required to receive <mark style="color:green;">**LIFETIME**</mark> perks!
+Minimum <mark style="color:red;">$25</mark> is required to receive <mark style="color:green;">**LIFETIME**</mark> perks!
 
 <details>
 
