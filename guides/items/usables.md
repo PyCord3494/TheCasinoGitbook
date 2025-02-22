@@ -8,7 +8,7 @@ Game-Changing Items
 
 <summary>Voter Chip</summary>
 
-Grants a 1.5x profit multiplier on most games for 2.5 hours.
+Grants a 1.3x profit multiplier on most games for 2.5 hours.
 
 Can also be used on your [earning.md](../commands/earning.md "mention") commands
 
@@ -32,7 +32,7 @@ Full House - 1.5-hour 1.4x multiplier&#x20;
 
 Four of a Kind - 1-hour 1.5x multiplier&#x20;
 
-Straight Flush - 1-hour 1.6x multiplier&#x20;
+Straight Flush - 30-minute 1.6x multiplier&#x20;
 
 Royal Flush - 15-minute 1.75x multiplier
 
