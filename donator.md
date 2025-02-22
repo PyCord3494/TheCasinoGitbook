@@ -14,11 +14,17 @@ layout:
 
 # Donate
 
+## Patreon
+
+Starting 2/22/2025, a Patreon has been made for this. This is a monthly way of supporting the development!
+
+[https://www.patreon.com/c/thewildcardco/membership](https://www.patreon.com/c/thewildcardco/membership)
+
 ## Donator
 
 ***
 
-This is a permanent rank that can be obtained through donating.
+Unlike Patreon perks, this is a permanent rank that can be obtained through donating.
 
 Minimum <mark style="color:red;">$25</mark> is required to receive <mark style="color:green;">**LIFETIME**</mark> perks!
 
