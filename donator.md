@@ -26,7 +26,7 @@ Starting 2/22/2025, a Patreon has been made for this. This is a monthly way of s
 
 Unlike Patreon perks, this is a permanent rank that can be obtained through donating.
 
-Minimum <mark style="color:red;">$25</mark> is required to receive <mark style="color:green;">**LIFETIME**</mark> perks!
+Minimum <mark style="color:red;">**$25 USD**</mark> is required to receive <mark style="color:green;">**LIFETIME**</mark> perks!
 
 <details>
 
