@@ -21,8 +21,8 @@ From there, based on the [schedule.md](schedule.md "mention"), your [people.md](
 
 <summary>The order things go</summary>
 
-1. Buy  [tables.md](tables.md "mention")&#x20;
-2. Hire [people.md](people.md "mention")&#x20;
+1. Buy  [tables.md](tables.md "mention")  <sub>(/shop buy Table)</sub>
+2. Hire [people.md](people.md "mention")  <sub>(/monopoly hire person)</sub>
 3. Wait for a game to start according to the [schedule.md](schedule.md "mention")
 4. Game will end
 5. Then you can see your [stats.md](stats.md "mention") and [withdraw.md](withdraw.md "mention") your earnings&#x20;
