@@ -3,9 +3,9 @@
 3/1/2025
 
 * [x] Battle Pass System (Casino Pass)
-* [x] Add Baccarat
+* [x] Baccarat
 * [x] Add "Play Again" and "Double Bet" buttons
-* [x] Add Card Flipper (game similar to War)
+* [x] Card Flipper (game similar to War)
 * [x] Multiplayer Roulette
 
 
@@ -15,7 +15,7 @@
 * [x] Add Diamonds currency
   * [x] Add ability to earn Diamonds from voting
   * [x] Add functionality for using Diamonds
-* [x] Add Plinko
+* [x] Plinko
 * [x] Hangman
 * [x] Poker
 
@@ -23,12 +23,13 @@
 
 8/1/2024
 
-* [x] Add more Donator perks
+* [x] More Donator perks
 * [ ] Find stable use for upgrading in Miner
-* [x] Add fish and dig
-* [x] Add Horse
+* [x] Fish
+* [x] Dig
+* [x] Horse
 * [x] Add Crypto
-* [x] Add Deal or No Deal
+* [x] Deal or No Deal
 * [x] Add beg and crime
 * [x] Fix Roulette
 * [x] Create mines
