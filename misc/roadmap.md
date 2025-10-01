@@ -50,3 +50,15 @@
 * [x] Lottery
 * [x] Bot vote system with rewards
 
+
+
+Before 2024
+
+* [x] Quests
+* [x] Minecraft-inspired Miner system
+* [x] Coinflip
+* [x] Roulette
+* [x] Blackjack
+  * [x] Insurance
+  * [x] Double down
+
