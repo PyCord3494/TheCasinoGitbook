@@ -28,7 +28,8 @@
 * [x] Fish
 * [x] Dig
 * [x] Horse
-* [x] Add Crypto
+* [x] Add real-time Crypto
+  * [x] Buy/Sell
 * [x] Deal or No Deal
 * [x] Add beg and crime
 * [x] Fix Roulette
@@ -59,10 +60,15 @@ Before 2024
 * [x] Multiplayer Poker
 * [x] Multiplayer Horse
 * [x] Multiplayer Blackjack
+* [x] Log system
+  * [x] Users can check their log with game ID
 * [x] Quests
+* [x] Shop
+* [x] Inventory and Items
 * [x] Rob
 * [x] Stock-market Crash game
 * [x] Minecraft-inspired Miner system
+* [x] Bank System
 * [x] Coinflip
 * [x] Roulette
 * [x] Slots
