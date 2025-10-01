@@ -55,7 +55,11 @@
 
 Before 2024
 
+* [x] Multiplayer Poker
+* [x] Multiplayer Horse
+* [x] Multiplayer Blackjack
 * [x] Quests
+* [x] Rob
 * [x] Stock-market Crash game
 * [x] Minecraft-inspired Miner system
 * [x] Coinflip
