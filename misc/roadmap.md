@@ -6,6 +6,7 @@
 * [x] Add Baccarat
 * [x] Add "Play Again" and "Double Bet" buttons
 * [x] Add Card Flipper (game similar to War)
+* [x] Multiplayer Roulette
 
 
 
@@ -55,9 +56,12 @@
 Before 2024
 
 * [x] Quests
+* [x] Stock-market Crash game
 * [x] Minecraft-inspired Miner system
 * [x] Coinflip
 * [x] Roulette
+* [x] Slots
+* [x] Coinflip
 * [x] Blackjack
   * [x] Insurance
   * [x] Double down
