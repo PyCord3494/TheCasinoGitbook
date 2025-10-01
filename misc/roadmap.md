@@ -18,13 +18,13 @@
 * [x] Plinko
 * [x] Hangman
 * [x] Poker
+* [x] Add a more stable upgrading system for Miner
 
 
 
 8/1/2024
 
 * [x] More Donator perks
-* [ ] Find stable use for upgrading in Miner
 * [x] Fish
 * [x] Dig
 * [x] Horse
