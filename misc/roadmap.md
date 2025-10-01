@@ -1,27 +1,13 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
+# 🗺️ Roadmap
 
-# 🗺 Roadmap
-
-9/20
+9/20/2024
 
 * [x] Crypto miners
 * [x] Hangman
 * [x] Monopoly
 * [x] Poker
 
-8/1
+8/1/2024
 
 * [x] Add more Donator perks
 * [ ] Find stable use for upgrading in Miner
