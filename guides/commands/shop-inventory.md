@@ -1,6 +1,8 @@
-# 💼 Shop/Inventory
+# 💼 Shop, Inventory & Crates
 
-Shop
+## Shop
+
+Use `/shop list` to browse items, `/shop buy` to purchase them, and `/shop sell` to sell eligible inventory.
 
 <details>
 
@@ -20,12 +22,12 @@ Shop
 
 
 
-Inventory
+## Inventory
 
-<details>
+Use `/inventory` to view what you own and `/use <item> [quantity]` for usable, non-crate items.
 
-<summary></summary>
+Inventory can be filtered and sorted in Discord. On the dashboard, each item uses the same catalog emoji and exposes only actions supported for that item. Successful use explains the resulting reward or active effect.
 
+## Crates
 
-
-</details>
+Crates use their own interactive opening flow. Read the full [Crates guide](../crates.md) for commands, tier rewards, Keys, and dashboard instructions.

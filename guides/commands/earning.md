@@ -1,73 +1,26 @@
-# 💰 Earning
+# 💰 Earning Credits
 
-<details>
+You do not have to wager to grow your Casino account. Use recurring rewards, activities, quests, and community features.
 
-<summary>Daily</summary>
+| Command | Purpose |
+| --- | --- |
+| `/daily` | Claim the daily reward when available. |
+| `/weekly` | Claim the weekly reward. |
+| `/monthly` | Claim the monthly reward. |
+| `/work` | Complete a work action for credits. |
+| `/vote` | Get the voting link and earn the current vote reward, including a Voter Chip when offered. |
+| `/search` | Search for emergency credits when eligible. |
+| `/beg` | Attempt to receive spare credits. |
+| `/crime` | Attempt a riskier earning action. |
+| `/fish` | Use a Fishing Pole to find money or items. |
+| `/dig` | Use a Shovel to find buried rewards. |
+| `/miner mine` | Use a Pickaxe in the mining system. |
+| `/quests` | Review and begin longer objectives. |
+| `/dailyquests` | Review daily objectives. |
+| `/claim` | Claim an eligible support-server reward. |
+| `/codes` | Redeem an active reward code. |
+| `/referral` | Review or register referral rewards. |
 
-<img src="../../.gitbook/assets/daily (1).png" alt="" data-size="original">
+Commands have individual cooldowns and eligibility rules. Use `/cooldown` to see what is currently ready.
 
-</details>
-
-<details>
-
-<summary>Weekly</summary>
-
-<img src="../../.gitbook/assets/weekly.png" alt="" data-size="original">
-
-</details>
-
-<details>
-
-<summary>Monthly</summary>
-
-<img src="../../.gitbook/assets/monthly.png" alt="" data-size="original">
-
-</details>
-
-<details>
-
-<summary>Work</summary>
-
-<img src="../../.gitbook/assets/work.png" alt="" data-size="original">
-
-</details>
-
-<details>
-
-<summary>Dig</summary>
-
-<img src="../../.gitbook/assets/dig.png" alt="" data-size="original">
-
-</details>
-
-<details>
-
-<summary>Crime</summary>
-
-<img src="../../.gitbook/assets/crime.png" alt="" data-size="original">
-
-</details>
-
-<details>
-
-<summary>Beg</summary>
-
-<img src="../../.gitbook/assets/beg.png" alt="" data-size="original">
-
-</details>
-
-<details>
-
-<summary>Claim</summary>
-
-Can only be used in the [support server](https://discord.gg/ggUksVN).
-
-</details>
-
-<details>
-
-<summary>Search</summary>
-
-Can only be used if your current balance is less than 300.
-
-</details>
+Some usable items apply temporary multipliers to eligible earning commands. Run `/activebuffs` to review active effects.

@@ -1,57 +1,45 @@
 ---
-description: Frequently Asked Questions
+description: Frequently asked questions about The Casino bot and dashboard
 ---
 
 # ❓ FAQ
 
-<details>
+## Is the website a separate account?
 
-<summary>What is The Casino?</summary>
+No. The Discord bot and dashboard use the same Casino account and database. Sign in with the Discord account you used for `/start`.
 
-Feel free to check out the Commands page for details on this!
+## Why does the dashboard say I am not registered?
 
-[commands](commands/ "mention")
+Run `/start` in Discord, then sign out of the dashboard and sign back in. Make sure you used the same Discord account.
 
-</details>
+## Why did my balance change on both Discord and the website?
 
-<details>
+That is expected. Games, banking, purchases, auctions, item use, crates, and rewards all affect the same live economy.
 
-<summary>Who created The Casino?</summary>
+## What should I do if an action appears to fail?
 
-[PyCord](https://discordapp.com/users/547475078082985990) did!
+Check your live balance, inventory, Game History, or Auction History before submitting it again. Refresh once and sign in again if your session is stale. If the same action continues failing, report the page, action, and visible error in the support server.
 
-</details>
+## How do crates work?
 
-<details>
+Every crate consumes one matching crate item and one universal Key. Use `/crate list`, `/crate open <type> [amount]`, or the dashboard Crates page. See the [crate guide](crates.md).
 
-<summary>When was The Casino founded?</summary>
+## Can I purchase Casino Pass on the website?
 
-There's not an exact date, but it was in July of 2019
+No. The dashboard displays and claims eligible progress; it does not sell Casino Pass membership. Use `/donate` or the support server for current options.
 
-</details>
+## Why does a leaderboard player have a generic name?
 
-<details>
+The dashboard can display Discord identity after that player has signed in and synchronized their account. Historical players who have not signed in may use a fallback player label.
 
-<summary>How do I add it to my server?</summary>
+## How do I invite the bot?
 
-Click [HERE](https://discord.com/api/oauth2/authorize?client\_id=585235000459264005\&permissions=387136\&scope=bot) to add it to your server
+Use the dashboard's Invite Bot link or [invite The Casino here](https://discord.com/api/oauth2/authorize?client_id=585235000459264005&permissions=387136&scope=bot).
 
-</details>
+## Where can I get support?
 
-<details>
+Join [The Casino support server](https://discord.gg/ggUksVN).
 
-<summary>Is there a support server?</summary>
+## Who created The Casino?
 
-Yes there is! Click [HERE](https://discord.gg/ggUksVN) to join it. You can use the /claim command to claim money for being in the support server&#x20;
-
-</details>
-
-<details>
-
-<summary> What is voting and why should I do it?</summary>
-
-Voting helps the bot gain attention!
-
-In exchange for voting, you will get 8,500 coins and a Voter Chip added to your [Inventory](commands/shop-inventory.md)!
-
-</details>
+The Casino was created by [PyCord](https://discordapp.com/users/547475078082985990) and began in 2019.

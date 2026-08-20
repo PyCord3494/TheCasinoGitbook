@@ -1,29 +1,15 @@
 # 🏧 Bank
 
-<details>
+Your wallet is used for wagers and purchases. The bank keeps credits separate from your immediately spendable balance.
 
-<summary>Balance</summary>
+| Command | Purpose | Example |
+| --- | --- | --- |
+| `/balance` | Show your wallet and bank totals | `/balance` |
+| `/bank balance` | Open the detailed bank view | `/bank balance` |
+| `/bank deposit <amount>` | Move wallet credits into the bank | `/bank deposit 5000` |
+| `/bank withdraw <amount>` | Move bank credits back to your wallet | `/bank withdraw 2500` |
+| `/pay <user> <amount>` | Send credits to another player | `/pay @Player 1000` |
 
-ddUsage[^1]
+Amounts must be positive whole numbers. A wager or shop purchase uses wallet credits, so withdraw first if the credits are stored in your bank.
 
-<img src="../../.gitbook/assets/bankbalance.png" alt="" data-size="original">
-
-</details>
-
-<details>
-
-<summary>Withdraw</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Deposit</summary>
-
-<img src="../../.gitbook/assets/bankdeposit (1).png" alt="" data-size="original">
-
-</details>
-
-[^1]: 
+The dashboard Bank page performs the same deposit and withdrawal operations against the same account.

@@ -1,75 +1,36 @@
-# Usables
+# Usable Items
 
-Game-Changing Items
+Usable items are consumed when their effect succeeds. Use `/use <item> [quantity]` for ordinary usable items and `/activebuffs` to review active effects.
 
-### Multipliers
+## Multipliers
 
-<details>
+| Item | Effect | Duration |
+| --- | ---: | ---: |
+| Voter Chip | 1.3× multiplier | 2.5 hours |
+| High Card | 1.1× | 2 hours |
+| One Pair | 1.1× | 2 hours |
+| Two Pair | 1.15× | 2 hours |
+| Straight | 1.2× | 2 hours |
+| Flush | 1.3× | 2 hours |
+| Full House | 1.4× | 1.5 hours |
+| Four of a Kind | 1.5× | 1 hour |
+| Straight Flush | 1.6× | 30 minutes |
+| Royal Flush | 1.75× | 15 minutes |
 
-<summary>Voter Chip</summary>
+An incompatible multiplier cannot replace another active multiplier. The bot or dashboard will explain the conflict without consuming the item.
 
-Grants a 1.3x profit multiplier on most games for 2.5 hours.
+## Game-specific items
 
-Can also be used on your [earning.md](../commands/earning.md "mention") commands
+* **Ace of Spades** — influences the opening Blackjack hand.
+* **Dealer Chip** — changes the Blackjack opening flow.
+* **Big Blind Chip** — provides Blackjack card-count information.
+* **Deck of Cards** — activates its supported Blackjack effect.
+* **Three of a Kind** — activates its supported Roulette effect.
+* **Small Blind Chip** — activates its timed buff.
+* **Magic 8 Ball** — consumes the item and reveals its credit reward.
 
-</details>
+## Crates
 
-<details>
+Standard, Silver, Gold, Diamond, and Platinum crates use the dedicated `/crate open` flow and each require one Key. See [Crates](../crates.md).
 
-<summary>Card Hands</summary>
-
-High Card - 2-hour 1.1x multiplier&#x20;
-
-One Pair - 2-hour 1.1x multiplier&#x20;
-
-Two Pair - 2-hour 1.15x multiplier&#x20;
-
-Straight - 2-hour 1.2x multiplier&#x20;
-
-Flush - 2-hour 1.3x multiplier&#x20;
-
-Full House - 1.5-hour 1.4x multiplier&#x20;
-
-Four of a Kind - 1-hour 1.5x multiplier&#x20;
-
-Straight Flush - 30-minute 1.6x multiplier&#x20;
-
-Royal Flush - 15-minute 1.75x multiplier
-
-</details>
-
-## Specific Game-Changing Items
-
-### Blackjack
-
-<details>
-
-<summary>Ace of Spades</summary>
-
-Forces your first card in Blackjack to be an Ace.\
-This does not affect the cards in the deck.&#x20;
-
-Out of the 13 cards in the deck (2 - A), 4 of them (10, J, Q, K) are 10. \
-Meaning you have about a (4/13) 31% chance of getting instant blackjack after using this item.
-
-</details>
-
-<details>
-
-<summary>Dealer Chip</summary>
-
-Forces the dealer to go first in Blackjack.&#x20;
-
-Dealer busts = instant win
-
-Careful! You still have a chance at losing though!
-
-</details>
-
-<details>
-
-<summary>Big Blind Chip</summary>
-
-Shows the current card count in blackjack.
-
-</details>
+On the dashboard, successful item use displays exactly what happened: reward amount, multiplier, expiration time, or armed game effect.

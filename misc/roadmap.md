@@ -1,5 +1,22 @@
 # 🗺️ Roadmap
 
+## 2026 platform expansion
+
+* [x] Launch the Discord-authenticated website dashboard
+* [x] Share live wallet, bank, profile, inventory, and statistics with Discord
+* [x] Add interactive dashboard games and server-authoritative payouts
+* [x] Add dashboard Game History and Responsible Play controls
+* [x] Add live leaderboard identities for dashboard users
+* [x] Add dashboard item buying, selling, and item-use results
+* [x] Add dashboard auctions, bidding, listing creation, cancellation, and history
+* [x] Expand Casino Pass to Bronze, Silver, Gold, Diamond, and Platinum paths
+* [x] Add Standard, Silver, Gold, Diamond, and Platinum crates
+* [x] Add `/crate open` and `/crate list` with animated reward reveals
+* [x] Add The Vault crate page and tier artwork to the dashboard
+* [x] Refresh the GitBook for the connected bot and dashboard experience
+
+## Earlier releases
+
 3/1/2025
 
 * [x] Battle Pass System (Casino Pass)

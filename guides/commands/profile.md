@@ -1,51 +1,21 @@
-# ℹ Profile
+# ℹ️ Profile
 
-<details>
+Your Casino profile brings together identity, progression, balance, statistics, and customization.
 
-<summary>View</summary>
+## Viewing profiles
 
-<img src="../../.gitbook/assets/profileview.png" alt="" data-size="original">
+* `/profile view [user]` — view your profile or another player's public profile.
+* `/profile avatar` — view or manage profile avatar options.
+* `/stats [user]` — detailed game totals.
+* `/level` — level and XP progress.
+* `/rank` — ranked-system status.
 
-</details>
+## Customization
 
-Edit
+Profile editing supports available background, embed-color, and text-color options. Use `/colors` to see recognized color choices, then use the matching `/profile edit` option.
 
-<details>
+## Dashboard identity
 
-<summary>Background Image</summary>
+When you sign in to the dashboard, your Discord display information is synchronized so leaderboards and account pages can show a recognizable username instead of a generic player ID. Historical players who have never signed in may still appear with a fallback label.
 
-/profile edit backgroundimage scroll
-
-/profile edit backgroundimage inkpaper
-
-/profile edit backgroundimage spiralnotebook
-
-![](../../.gitbook/assets/profileeditbackground.png)
-
-</details>
-
-<details>
-
-<summary>Embed Color</summary>
-
-/profile edit embedcolor COLOR
-
-Replace "COLOR" with a color
-
-See all colors in /colors\
-![](../../.gitbook/assets/profileeditembedcolor.png)
-
-</details>
-
-<details>
-
-<summary>Text Color</summary>
-
-/profile edit textcolor COLOR
-
-Replace "COLOR" with a color
-
-See all colors in /colors\
-![](../../.gitbook/assets/profileedittextcolor.png)
-
-</details>
+The dashboard Profile page also shows live balance, progress, totals, and inventory summaries from the same Discord account.

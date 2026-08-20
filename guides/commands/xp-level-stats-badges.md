@@ -1,25 +1,15 @@
-# ⭐ XP/Level, Stats, Badges
+# ⭐ Progress, Stats & Achievements
 
-<details>
+The Casino tracks long-term progression separately from your spendable balance.
 
-<summary>Stats</summary>
+* `/level` shows your level and XP progress.
+* `/stats` shows wagered credits, winnings, profit, and games played.
+* `/rank` shows your ranked standing.
+* `/top` and `/position` compare leaderboard placement.
+* `/achievements` shows unlocked milestones.
+* `/badges` shows profile badges you have earned.
+* `/rewards` shows available level rewards.
 
-<img src="../../.gitbook/assets/stats.png" alt="" data-size="original">
+Casino Pass XP is a separate monthly progression system. See [Casino Pass](../casino-pass.md).
 
-</details>
-
-<details>
-
-<summary>Level</summary>
-
-<img src="../../.gitbook/assets/level.png" alt="" data-size="original">
-
-</details>
-
-<details>
-
-<summary>Badges</summary>
-
-
-
-</details>
+The dashboard Profile, Leaderboard, Achievements, and Game History pages provide web views of the same account data.

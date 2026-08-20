@@ -1,160 +1,43 @@
-# 🕹 Games
+# 🕹️ Games
 
-<details>
+Casino games use wallet credits. Enter positive whole-number wagers and read the interactive controls before confirming an action.
 
-<summary>Blackjack</summary>
+## Core games
 
-Usage[^1]
+| Game | Command | How it plays |
+| --- | --- | --- |
+| Blackjack | `/blackjack <bet>` | Hit, stand, double, split eligible pairs, and take insurance when offered. |
+| Baccarat | `/baccarat <bet>` | Bet on the player, banker, or tie. |
+| Poker | `/poker <bet>` | Play a complete poker hand against the house. |
+| Roulette | `/roulette <bet>` | Choose a supported number or table characteristic. |
+| Slots | `/slots <bet>` | Spin for matching symbols and a chance at the growing Big Win. |
+| Coinflip | `/coinflip <bet> <heads-or-tails>` | A correct choice returns 2× the wager. |
+| Rock Paper Scissors | `/rockpaperscissors <bet> <choice>` | A win returns 2×; a tie returns the wager. |
+| Dice | `/dice <bet>` | A roll of 6 returns 5.8×; other results lose. |
+| Crash | `/crash <bet>` | Manually cash out before the round crashes. |
+| Mines | `/mines start <bet> <mines>` | Reveal safe tiles, build a multiplier, and cash out before hitting a mine. |
+| Plinko | `/plinko <bet>` | Watch the ball travel through pins to a payout slot. |
+| Scratch | `/scratch <bet>` | Reveal the scratch card and match its prize conditions. |
+| Horse | `/horse <bet>` | Choose a horse and watch the race. |
+| High Low | `/highlow <bet>` | Predict whether the next card is higher or lower. |
+| Deal or No Deal | `/dond <bet>` | Open cases, evaluate banker offers, and decide when to deal. |
+| Get the Ace | `/gettheace <bet>` | Try to beat the dealer's card. |
+| Card Flipper | `/cardflipper <bet>` | Make card predictions across an interactive round. |
 
-<img src="../../.gitbook/assets/blackjack (2).png" alt="" data-size="original">
+Additional casual games include `/ttt`, `/hangman`, and `/minesweeper`.
 
-</details>
+## Multiplayer
 
-<details>
+The Casino supports shared tables for Blackjack, Poker, Roulette, Horse Racing, and Crash. Multiplayer commands begin with `/multiplayer`, such as `/multiplayerbj` and `/multiplayercrash`. The host creates the lobby, other players join, and the round begins when the table is ready.
 
-<summary>Coinflip</summary>
+## Interactive website games
 
-Usage[^2]
+The dashboard Play page includes interactive versions of major games. Blackjack waits for your decisions; Crash uses manual cash-out; Mines reveals the tile you select; Scratch requires revealing the card; and visual games animate their result.
 
-<img src="../../.gitbook/assets/coinflip.png" alt="" data-size="original">
+{% hint style="info" %}
+Displayed payouts are total returns unless a game explicitly labels a number as profit. A 2× win on a 1,000-credit wager returns 2,000 credits total.
+{% endhint %}
 
-</details>
+## Fair-play controls
 
-<details>
-
-<summary>Slots</summary>
-
-Usage[^3]
-
-<img src="../../.gitbook/assets/slots.png" alt="" data-size="original">
-
-
-
-**What's the Big Win?**
-
-The Big Win is a jackpot that starts at 25,000 credits, and increases by 2,500 every time someone loses.
-
-**How do I win it?**
-
-To win it, you need to get all 3 of the same fruit (about a 2% chance!)\
-
-
-
-
-</details>
-
-<details>
-
-<summary>Roulette</summary>
-
-Usage[^4]
-
-<img src="../../.gitbook/assets/roulette (1).png" alt="" data-size="original">
-
-</details>
-
-<details>
-
-<summary>Crash</summary>
-
-Usage[^5]
-
-<img src="../../.gitbook/assets/crash (1).png" alt="" data-size="original">
-
-</details>
-
-<details>
-
-<summary>Horse</summary>
-
-Usage[^6]
-
-<img src="../../.gitbook/assets/horse.png" alt="" data-size="original">
-
-</details>
-
-<details>
-
-<summary>Rock Paper Scissors</summary>
-
-Usage[^7]
-
-<img src="../../.gitbook/assets/rockpaperscissors.png" alt="" data-size="original">
-
-</details>
-
-<details>
-
-<summary>Deal or No Deal</summary>
-
-Objective: get highest multiplier. \
-Game starts with player picking their case they think the highest multiplier is in.\
-They'll then choose cases to reveal.\
-\
-Dealer will give you an offer based on the revealed multipliers. \
-\
-You can either accept or decline it.\
-\
-If declining it, this process will repeat until only 2 cases left. From there, you can either choose to open your case or the last case remaining. Whichever case you open here, will be the multiplier you end with.&#x20;
-
-Usage[^8]
-
-<img src="../../.gitbook/assets/DealOrNoDeal.png" alt="" data-size="original">
-
-</details>
-
-<details>
-
-<summary>(Roobet) Mines</summary>
-
-Sorta like minesweeper.\
-Objective: click spaces that aren't a bomb.\
-Once you don't want to click anymore, click one of the checkmarks to end the game.
-
-Usage[^9]
-
-<img src="../../.gitbook/assets/mines.png" alt="" data-size="original">
-
-</details>
-
-<details>
-
-<summary>Scratch</summary>
-
-Scratch offs or scratch tickets, whatever you call them.
-
-Usage[^10]
-
-<img src="../../.gitbook/assets/scratch.png" alt="" data-size="original">
-
-</details>
-
-<details>
-
-<summary>Rob</summary>
-
-
-
-</details>
-
-
-
-[^1]: /blackjack
-
-[^2]: /coinflip
-
-[^3]: /slots
-
-[^4]: /roulette
-
-[^5]: /crash
-
-[^6]: /horse
-
-[^7]: /rockpaperscissors
-
-[^8]: /dond
-
-[^9]: /mines
-
-[^10]: /scratch
+Outcomes are generated and settled by The Casino server, not by browser animation. The animation presents the result; it does not choose it. Use the dashboard Responsible Play page to configure limits for supported web wagers.

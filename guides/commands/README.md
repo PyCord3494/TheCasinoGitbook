@@ -1,15 +1,19 @@
 # 🤖 Commands
 
-The Casino is a Discord bot that allows you to play popular Casino games like Blackjack, Roulette, (Crypto) Crash, Horse (Racing), and more! Learn what other games I offer in Games:
+All player commands are Discord slash commands. Type `/` and Discord will show available options, required parameters, and descriptions.
 
-[games.md](games.md "mention")
+| Area | Useful commands |
+| --- | --- |
+| Getting started | `/start`, `/help`, `/balance`, `/profile view` |
+| Games | `/blackjack`, `/roulette`, `/coinflip`, `/crash`, `/mines`, `/poker`, `/slots` |
+| Earning | `/daily`, `/weekly`, `/monthly`, `/work`, `/vote`, `/quests` |
+| Banking | `/bank balance`, `/bank deposit`, `/bank withdraw`, `/pay` |
+| Items | `/items`, `/inventory`, `/shop`, `/use`, `/crate` |
+| Progress | `/level`, `/stats`, `/rank`, `/achievements`, `/casino_pass` |
+| Trading | `/auction list`, `/auction bid`, `/auction sell`, `/crypto` |
 
-Don't like gambling? That's ok! The Casino has a lot more commands to offer:
+Use `/help` for the live categorized command browser. This documentation explains the major systems and common command patterns; Discord's slash-command picker remains the source of truth for currently available parameters.
 
-[earning.md](earning.md "mention")
-
-[shop-inventory.md](shop-inventory.md "mention")
-
-[xp-level-stats-badges.md](xp-level-stats-badges.md "mention")
-
-[profile.md](profile.md "mention")
+{% hint style="warning" %}
+Never give anyone your Discord login, session data, or account credentials. Staff do not need them to inspect your casino account.
+{% endhint %}
