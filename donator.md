@@ -1,6 +1,6 @@
 # 💎 Donator Membership
 
-Donator membership supports development and unlocks account-wide benefits across Discord and the dashboard.
+Donator membership supports development and unlocks additional benefits in the Discord bot.
 
 ## Tiers
 
@@ -22,7 +22,7 @@ Each tier unlocks its matching monthly Casino Pass reward path. The reward scale
 
 ## Membership and support
 
-Casino Pass and membership are not sold directly through the dashboard. Use `/donate` in Discord or join the [support server](https://discord.gg/ggUksVN) for current membership and donation information.
+Use `/donate` in Discord or join the [support server](https://discord.gg/ggUksVN) for current membership and donation information.
 
 {% hint style="info" %}
 Benefits shown here reflect the current bot implementation. Current availability and membership terms are shown by the bot and support team.

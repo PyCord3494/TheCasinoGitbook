@@ -17,7 +17,7 @@ Usable items are consumed when their effect succeeds. Use `/use <item> [quantity
 | Straight Flush | 1.6× | 30 minutes |
 | Royal Flush | 1.75× | 15 minutes |
 
-An incompatible multiplier cannot replace another active multiplier. The bot or dashboard will explain the conflict without consuming the item.
+An incompatible multiplier cannot replace another active multiplier. The bot will explain the conflict without consuming the item.
 
 ## Game-specific items
 
@@ -32,5 +32,3 @@ An incompatible multiplier cannot replace another active multiplier. The bot or 
 ## Crates
 
 Standard, Silver, Gold, Diamond, and Platinum crates use the dedicated `/crate open` flow and each require one Key. See [Crates](../crates.md).
-
-On the dashboard, successful item use displays exactly what happened: reward amount, multiplier, expiration time, or armed game effect.

@@ -5,7 +5,6 @@
 ## Guides
 
 * [❓ FAQ](guides/faq.md)
-* [🌐 Website Dashboard](guides/dashboard.md)
 * [🎁 Crates](guides/crates.md)
 * [🎟️ Casino Pass](guides/casino-pass.md)
 * [🔨 Auctions](guides/auctions.md)

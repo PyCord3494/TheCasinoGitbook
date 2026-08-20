@@ -22,10 +22,6 @@ Example: `/crate open Diamond 2`
 
 Higher tiers draw from progressively rarer item pools. Crates themselves are excluded from premium random item draws.
 
-## Opening on the dashboard
-
-Open **Crates** in the dashboard navigation. The Vault shows your quantity of each tier and available Keys. Select a tier and amount, then unlock it to see the animation, total rewards, and each crate's individual contents.
-
 Crate consumption and rewards are processed in one transaction. If you do not own enough crates or Keys, nothing is consumed.
 
 Crates can also be bought with Diamonds where available or traded through Auctions.

@@ -8,6 +8,6 @@ Items are persistent inventory assets used for buffs, minigames, collections, tr
 * **Tool** — grants access to activities such as fishing, digging, or mining.
 * **Collectible** — retained for rarity, completion, trading, or special systems.
 
-Use `/items` to browse the current catalog and `/inventory` to see what you own. `/shop buy` and `/shop sell` handle eligible store transactions. The dashboard Items and Inventory pages offer the same catalog and account inventory with the bot's item emojis.
+Use `/items` to browse the current catalog and `/inventory` to see what you own. `/shop buy` and `/shop sell` handle eligible store transactions.
 
 Crates have their own opening flow. See [Crates](../crates.md).

@@ -26,8 +26,8 @@ Use `/shop list` to browse items, `/shop buy` to purchase them, and `/shop sell`
 
 Use `/inventory` to view what you own and `/use <item> [quantity]` for usable, non-crate items.
 
-Inventory can be filtered and sorted in Discord. On the dashboard, each item uses the same catalog emoji and exposes only actions supported for that item. Successful use explains the resulting reward or active effect.
+Inventory can be filtered and sorted in Discord. Use an item's description to understand whether it is consumable, collectible, or required by another command.
 
 ## Crates
 
-Crates use their own interactive opening flow. Read the full [Crates guide](../crates.md) for commands, tier rewards, Keys, and dashboard instructions.
+Crates use their own interactive opening flow. Read the full [Crates guide](../crates.md) for commands, tier rewards, and Keys.

@@ -30,14 +30,10 @@ Additional casual games include `/ttt`, `/hangman`, and `/minesweeper`.
 
 The Casino supports shared tables for Blackjack, Poker, Roulette, Horse Racing, and Crash. Multiplayer commands begin with `/multiplayer`, such as `/multiplayerbj` and `/multiplayercrash`. The host creates the lobby, other players join, and the round begins when the table is ready.
 
-## Interactive website games
-
-The dashboard Play page includes interactive versions of major games. Blackjack waits for your decisions; Crash uses manual cash-out; Mines reveals the tile you select; Scratch requires revealing the card; and visual games animate their result.
-
 {% hint style="info" %}
 Displayed payouts are total returns unless a game explicitly labels a number as profit. A 2× win on a 1,000-credit wager returns 2,000 credits total.
 {% endhint %}
 
 ## Fair-play controls
 
-Outcomes are generated and settled by The Casino server, not by browser animation. The animation presents the result; it does not choose it. Use the dashboard Responsible Play page to configure limits for supported web wagers.
+Outcomes are generated and settled by the bot. Visuals and animations present the result; they do not choose it.

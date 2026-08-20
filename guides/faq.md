@@ -1,40 +1,44 @@
 ---
-description: Frequently asked questions about The Casino bot and dashboard
+description: Frequently asked questions about The Casino Discord bot
 ---
 
 # ❓ FAQ
 
-## Is the website a separate account?
+## What is The Casino?
 
-No. The Discord bot and dashboard use the same Casino account and database. Sign in with the Discord account you used for `/start`.
+The Casino is a Discord economy and casino bot with interactive games, banking, items, auctions, progression, multiplayer tables, Casino Pass, and more.
 
-## Why does the dashboard say I am not registered?
+## How do I start playing?
 
-Run `/start` in Discord, then sign out of the dashboard and sign back in. Make sure you used the same Discord account.
+Invite the bot, run `/start`, and then use `/help` to browse commands. `/balance` confirms that your account is ready.
 
-## Why did my balance change on both Discord and the website?
+## Why does a command say I am not registered?
 
-That is expected. Games, banking, purchases, auctions, item use, crates, and rewards all affect the same live economy.
-
-## What should I do if an action appears to fail?
-
-Check your live balance, inventory, Game History, or Auction History before submitting it again. Refresh once and sign in again if your session is stale. If the same action continues failing, report the page, action, and visible error in the support server.
+Run `/start` in a server containing The Casino, then run your original command again.
 
 ## How do crates work?
 
-Every crate consumes one matching crate item and one universal Key. Use `/crate list`, `/crate open <type> [amount]`, or the dashboard Crates page. See the [crate guide](crates.md).
+Every crate consumes one matching crate item and one universal Key. Use `/crate list` to compare tiers and `/crate open <type> [amount]` to open them. See the [Crates guide](crates.md).
 
-## Can I purchase Casino Pass on the website?
+## How do I see command cooldowns?
 
-No. The dashboard displays and claims eligible progress; it does not sell Casino Pass membership. Use `/donate` or the support server for current options.
+Use `/cooldown`. Donator benefits can reduce or remove some cooldown restrictions.
 
-## Why does a leaderboard player have a generic name?
+## How do I check an item effect?
 
-The dashboard can display Discord identity after that player has signed in and synchronized their account. Historical players who have not signed in may use a fallback player label.
+Use `/items` for the catalog and `/inventory` for owned quantities. Use `/activebuffs` after activating a timed or game-specific effect.
+
+## What is Casino Pass?
+
+Casino Pass is a 30-level monthly progression system with a free path and Bronze through Platinum Donator paths. Use `/casino_pass help` or read the [Casino Pass guide](casino-pass.md).
+
+## What is voting and why should I do it?
+
+Voting helps more Discord communities discover the bot. Use `/vote` for the current voting link and reward information. Rewards may include credits and a Voter Chip.
 
 ## How do I invite the bot?
 
-Use the dashboard's Invite Bot link or [invite The Casino here](https://discord.com/api/oauth2/authorize?client_id=585235000459264005&permissions=387136&scope=bot).
+[Invite The Casino to Discord](https://discord.com/api/oauth2/authorize?client_id=585235000459264005&permissions=387136&scope=bot).
 
 ## Where can I get support?
 

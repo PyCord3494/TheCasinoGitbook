@@ -11,5 +11,3 @@ Your wallet is used for wagers and purchases. The bank keeps credits separate fr
 | `/pay <user> <amount>` | Send credits to another player | `/pay @Player 1000` |
 
 Amounts must be positive whole numbers. A wager or shop purchase uses wallet credits, so withdraw first if the credits are stored in your bank.
-
-The dashboard Bank page performs the same deposit and withdrawal operations against the same account.

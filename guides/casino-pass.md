@@ -14,7 +14,7 @@ Everyone receives the free path. Donators unlock the path matching their members
 | Diamond | 1.6× |
 | Platinum | 2× |
 
-Membership is not purchased from the dashboard. Use `/donate` or the support server for current membership information.
+Use `/donate` or the support server for current membership information.
 
 ## Commands
 
@@ -27,5 +27,3 @@ Players can preview every path, but only the free path and an eligible unlocked 
 ## Monthly reset
 
 Progress is seasonal and resets when a new monthly pass begins. Claim earned rewards before the current pass ends.
-
-The dashboard Casino Pass page mirrors your live progress, shows every Bronze-to-Platinum path, and supports claiming eligible rewards.

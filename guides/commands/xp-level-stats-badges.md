@@ -11,5 +11,3 @@ The Casino tracks long-term progression separately from your spendable balance.
 * `/rewards` shows available level rewards.
 
 Casino Pass XP is a separate monthly progression system. See [Casino Pass](../casino-pass.md).
-
-The dashboard Profile, Leaderboard, Achievements, and Game History pages provide web views of the same account data.
