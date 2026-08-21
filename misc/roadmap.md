@@ -8,6 +8,7 @@
 * [x] Add `/crate open` and `/crate list` with animated reward reveals
 * [x] Expand the interactive help menu and changelog
 * [x] Refresh the GitBook for the current Discord bot
+* [x] Add a permanent Diamond Cosmetic Locker with seven equip slots and original profile scenes
 
 ## Earlier releases
 

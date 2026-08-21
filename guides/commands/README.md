@@ -7,10 +7,11 @@ All player commands are Discord slash commands. Type `/` and Discord will show a
 | Getting started | `/start`, `/help`, `/balance`, `/profile view` |
 | Games | `/blackjack`, `/roulette`, `/coinflip`, `/crash`, `/mines`, `/poker`, `/slots` |
 | Earning | `/daily`, `/weekly`, `/monthly`, `/work`, `/vote`, `/quests` |
-| Banking | `/bank balance`, `/bank deposit`, `/bank withdraw`, `/pay` |
+| Banking and currencies | `/bank balance`, `/bank deposit`, `/bank withdraw`, `/pay`, `/diamonds` |
 | Items | `/items`, `/inventory`, `/shop`, `/use`, `/crate` |
 | Progress | `/level`, `/stats`, `/rank`, `/achievements`, `/casino_pass` |
-| Trading | `/auction list`, `/auction bid`, `/auction sell`, `/crypto` |
+| Trading | `/auction list`, `/auction bid`, `/auction sell`, `/auction manage`, `/auction cancel`, `/auction history`, `/crypto` |
+| Cosmetics | `/cosmetics shop`, `/cosmetics locker`, `/cosmetics collection`, `/cosmetics sets`, `/cosmetics seasons` |
 
 Use `/help` for the live categorized command browser. This documentation explains the major systems and common command patterns; Discord's slash-command picker remains the source of truth for currently available parameters.
 

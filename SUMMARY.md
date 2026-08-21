@@ -5,6 +5,8 @@
 ## Guides
 
 * [❓ FAQ](guides/faq.md)
+* [💎 Diamonds](guides/diamonds.md)
+* [🧳 Cosmetic Locker](guides/cosmetics.md)
 * [🎁 Crates](guides/crates.md)
 * [🎟️ Casino Pass](guides/casino-pass.md)
 * [🔨 Auctions](guides/auctions.md)

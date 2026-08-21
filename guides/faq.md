@@ -20,6 +20,10 @@ Run `/start` in a server containing The Casino, then run your original command a
 
 Every crate consumes one matching crate item and one universal Key. Use `/crate list` to compare tiers and `/crate open <type> [amount]` to open them. See the [Crates guide](crates.md).
 
+## What can I do with Diamonds?
+
+Diamonds can purchase premium crates and cosmetics, unlock a dozen feature bundles in the Diamond Market, buy monthly Casino Pass XP, convert into Credits, and access eligible Diamond shop items. Use `/diamonds info`, `/diamonds market`, or read the [Diamonds guide](diamonds.md).
+
 ## How do I see command cooldowns?
 
 Use `/cooldown`. Donator benefits can reduce or remove some cooldown restrictions.

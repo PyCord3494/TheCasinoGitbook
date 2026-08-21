@@ -3,7 +3,7 @@
 The Casino tracks long-term progression separately from your spendable balance.
 
 * `/level` shows your level and XP progress.
-* `/stats` shows wagered credits, winnings, profit, and games played.
+* `/stats [user]` shows wagered credits, winnings, net profit, games played, return rate, average wager, and game-by-game net performance.
 * `/rank` shows your ranked standing.
 * `/top` and `/position` compare leaderboard placement.
 * `/achievements` shows unlocked milestones.

@@ -17,6 +17,8 @@ The Casino is a Discord economy and casino bot. Play interactive games, build yo
 
 * [Commands](guides/commands/README.md) — learn the Discord commands.
 * [Games](guides/commands/games.md) — game flow and wagering basics.
+* [Diamonds](guides/diamonds.md) — premium crates, Pass XP, customization, and exchanges.
+* [Cosmetic Locker](guides/cosmetics.md) — permanent titles, frames, auras, profile scenes, and more.
 * [Crates](guides/crates.md) — compare crate tiers and open rewards.
 * [Casino Pass](guides/casino-pass.md) — monthly progress and donor paths.
 * [FAQ](guides/faq.md) — account, balance, and troubleshooting answers.
