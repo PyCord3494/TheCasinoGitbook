@@ -100,11 +100,11 @@ Missing a window means waiting for that collection's next annual return. Previou
 
 ### Spring Garden Gala
 
-<img src="../.gitbook/assets/seasonal-spring-easter.png" alt="Twelve Spring Garden Gala casino emblems" data-size="original">
+<img src="../.gitbook/assets/seasonal-spring-easter.png" alt="Twelve Spring Garden Gala cosmetic designs" data-size="original">
 
 ### Summer High-Roller Resort
 
-<img src="../.gitbook/assets/seasonal-summer.png" alt="Twelve Summer High-Roller Resort casino emblems" data-size="original">
+<img src="../.gitbook/assets/seasonal-summer.png" alt="Twelve Summer High-Roller Resort cosmetic designs" data-size="original">
 
 ### Midsummer Fireworks Festival
 
@@ -112,7 +112,7 @@ Missing a window means waiting for that collection's next annual return. Previou
 
 ### Autumn Haunted House
 
-<img src="../.gitbook/assets/seasonal-autumn-halloween.png" alt="Twelve Autumn Haunted House casino emblems" data-size="original">
+<img src="../.gitbook/assets/seasonal-autumn-halloween.png" alt="Twelve Autumn Haunted House cosmetic designs" data-size="original">
 
 ### Harvest High-Roller Feast
 
@@ -120,7 +120,7 @@ Missing a window means waiting for that collection's next annual return. Previou
 
 ### Winter Royal Casino
 
-<img src="../.gitbook/assets/seasonal-winter-christmas.png" alt="Twelve Winter Royal Casino emblems" data-size="original">
+<img src="../.gitbook/assets/seasonal-winter-christmas.png" alt="Twelve Winter Royal Casino cosmetic designs" data-size="original">
 
 ## Emblem collection
 
