@@ -35,6 +35,7 @@
   * [Withdraw](monopoly/withdraw.md)
   * [Stats](monopoly/stats.md)
 * [💎 Donator Membership](donator.md)
+* [❤️ Donate](donate.md)
 
 ## Legal
 

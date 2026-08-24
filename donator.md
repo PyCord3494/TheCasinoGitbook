@@ -28,7 +28,7 @@ Every timed 12-piece collection includes two donator claims. Donator cosmetics c
 
 ## Membership and support
 
-Use `/donate` in Discord or join the [support server](https://discord.gg/ggUksVN) for current membership and donation information.
+Use `/donate` in Discord or read [Donate to The Casino](donate.md) for the official PayPal, Venmo, and Cash App destinations. After donating, join the [support server](https://discord.gg/ggUksVN) so the team can verify the donation and activate the appropriate perks.
 
 {% hint style="info" %}
 Benefits shown here reflect the current bot implementation. Current availability and membership terms are shown by the bot and support team.
