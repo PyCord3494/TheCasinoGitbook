@@ -24,11 +24,9 @@ Casino games use wallet credits. Enter positive whole-number wagers and read the
 | Get the Ace | `/gettheace <bet>` | Try to beat the dealer's card. |
 | Card Flipper | `/cardflipper <bet>` | Make card predictions across an interactive round. |
 
-Additional casual games include `/ttt`, `/hangman`, and `/minesweeper`.
-
 ## Multiplayer
 
-The Casino supports shared tables for Blackjack, Poker, Roulette, Horse Racing, and Crash. Multiplayer commands begin with `/multiplayer`, such as `/multiplayerbj` and `/multiplayercrash`. The host creates the lobby, other players join, and the round begins when the table is ready.
+The Casino supports shared tables for Blackjack, Poker, Roulette, Horse Racing, and Crash through `/multiplayerbj`, `/multiplayerpoker`, `/multiplayerroulette`, `/multiplayerhorse`, and `/multiplayercrash`. The host creates the lobby, other players join, and the round begins when the table is ready.
 
 {% hint style="info" %}
 Displayed payouts are total returns unless a game explicitly labels a number as profit. A 2× win on a 1,000-credit wager returns 2,000 credits total.

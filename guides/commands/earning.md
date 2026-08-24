@@ -18,7 +18,7 @@ You do not have to wager to grow your Casino account. Use recurring rewards, act
 | `/quests` | Review and begin longer objectives. |
 | `/dailyquests` | Review daily objectives. |
 | `/claim` | Claim an eligible support-server reward. |
-| `/codes` | Redeem an active reward code. |
+| `/code <code>` | Redeem the active daily reward code. |
 | `/referral` | Review or register referral rewards. |
 
 Commands have individual cooldowns and eligibility rules. Use `/cooldown` to see what is currently ready.
