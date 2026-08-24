@@ -22,7 +22,7 @@ Each pass can contain six collectible cosmetic milestones. The selection only us
 
 Pass cosmetics can include titles, badges, frames, auras, taglines, and profile trackers. A collected piece is account-bound and remains usable forever—even after its event and monthly pass end. Higher membership paths inherit rewards from lower unlocked paths as they progress.
 
-Use `/donate` or the support server for current membership information.
+Use `/donate`, read [Donator Membership](../donator.md), or [join The Casino on Patreon](https://www.patreon.com/13649249/join) for current membership information.
 
 ## Commands
 

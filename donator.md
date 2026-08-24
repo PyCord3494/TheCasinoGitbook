@@ -2,6 +2,8 @@
 
 Donator membership supports development and unlocks additional benefits in the Discord bot.
 
+[**Join The Casino on Patreon →**](https://www.patreon.com/13649249/join)
+
 ## Monthly membership bundles
 
 After staff verifies each monthly payment, the complete bundle for the selected tier is granted again. Tier rewards are cumulative: higher tiers include the item rewards from the tiers below them.
@@ -44,7 +46,7 @@ Every timed 12-piece collection includes two donator claims. Donator cosmetics c
 
 ## Membership and support
 
-Use `/donate` in Discord or read [Donate to The Casino](donate.md) for the official PayPal, Venmo, and Cash App destinations. After donating, join the [support server](https://discord.gg/ggUksVN) so the team can verify the donation and activate the appropriate perks.
+Use `/donate` in Discord or [join The Casino on Patreon](https://www.patreon.com/13649249/join) for Bronze through Platinum membership. PayPal, Venmo, and Cash App are also listed on [Donate to The Casino](donate.md). After joining or renewing, enter the [support server](https://discord.gg/ggUksVN) so the team can verify the payment and activate the appropriate perks.
 
 {% hint style="info" %}
 Benefits shown here reflect the current bot implementation. Current availability and membership terms are shown by the bot and support team.
