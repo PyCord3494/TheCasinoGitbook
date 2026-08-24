@@ -20,7 +20,28 @@ The Platinum bundle therefore contains 1 Full House, 2 Ace of Spades, 2 Dealer C
 
 Memberships and renewals are verified manually. A tier change takes effect immediately and grants that tier's complete monthly bundle. Membership access remains active until staff removes it after the membership ends.
 
-## Recurring membership benefits
+## Included with every paid tier
+
+Bronze establishes the shared Donator benefits below. Silver through Platinum include all of them.
+
+* Maximum wager increases from **1,000,000 to 10,000,000 Credits** in supported games.
+* Most single-player game cooldowns are removed, including immediate replay where supported.
+* `/daily` pays **3×** its normal base Credit reward.
+* `/weekly` and `/monthly` pay **2×** their normal base Credit rewards.
+* `/send`, `/pay`, and `/transfer` support up to **5,000,000 Credits** instead of 500,000 when either side is a Donator.
+* Transfers involving a Donator use a **10% fee**. Regular transfers use 20% in approved Donator servers and 40% in the support server.
+* One approved Discord server can be added to the transfer-command server list. Staff handles this manually after receiving the server ID.
+* Maximum bounty placement increases to **1,000,000 Credits**.
+* Daily Quest selection increases from **3 to 5 quests**.
+* Bulk item use and crate opening increase from **25 to 100 at once**.
+* Donator-only **Double Bet** and faster replay controls are available in supported games.
+* Every timed 12-piece cosmetic collection includes **two Donator-only seasonal claims** that remain usable permanently.
+
+{% hint style="info" %}
+“No cooldowns” applies to most supported casino games, not every command in the bot. Reward, economy, administrative, and safety cooldowns can still apply.
+{% endhint %}
+
+## Tier-scaled recurring benefits
 
 | Tier | XP and quest bonus | Shop discount | Auction seller fee | Daily Diamonds | Daily Pass XP | Weekly crates and Keys |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -30,19 +51,35 @@ Memberships and renewals are verified manually. A tier change takes effect immed
 | Diamond | 1.30× | 12.5% | 0.5% | 40 | 50 | 3 + 3 |
 | Platinum | 1.50× | 15% | 0% | 75 | 75 | 5 + 5 |
 
-The table above is the monthly renewal grant. The benefits below are separate recurring claims and passive privileges. The XP column applies to Casino Pass XP, account XP, and quest rewards. Donator accounts also receive the increased game wager limit and can process larger item and crate batches where supported.
+These are separate from the monthly renewal bundle. Daily Diamonds and Pass XP are claimed through `/donator`; weekly crates and Keys are included when that command's weekly bundle is ready. Claim streaks add up to 50%, and Silver through Platinum receive an extended missed-day protection window.
+
+The XP multiplier applies to Casino Pass XP, account XP, and quest rewards. Shop discounts apply to eligible Credit-priced items, while the auction percentage is the seller fee retained when an auction completes.
 
 Use `/donatorperks [tier]` to compare the monthly bundle and recurring benefits for Bronze through Platinum. Use `/donator` to claim an eligible daily reward and weekly bundle.
 
 ## Casino Pass access
 
-Each tier unlocks its matching monthly Casino Pass reward path. The reward scale is Bronze 0.75×, Silver 1×, Gold 1.25×, Diamond 1.6×, and Platinum 2×.
+Everyone receives the free Casino Pass path. Each Donator tier unlocks its **matching** monthly reward path; it does not unlock every higher path. The reward scale is Bronze 0.75×, Silver 1×, Gold 1.25×, Diamond 1.6×, and Platinum 2×.
 
 Monthly passes also include tiered cosmetic milestones. Their quality rises from the free path through Platinum, and the selection only draws from event collections active during that month. Every claimed cosmetic remains usable permanently.
 
 ## Seasonal cosmetics
 
 Every timed 12-piece collection includes two donator claims. Donator cosmetics can be titles, crests, frames, auras, taglines, or profile trackers. They can only be claimed while their event is active, but never expire after collection.
+
+## Discord and creator benefits
+
+These benefits are fulfilled manually through the support server.
+
+| Tier | Manually fulfilled benefits |
+| --- | --- |
+| Bronze | Donator role and one approved transfer-enabled server. |
+| Silver | All Bronze benefits plus the exclusive Silver role. |
+| Gold | All Silver benefits plus the exclusive Gold role. |
+| Diamond | All Gold benefits plus the exclusive Diamond role, a personal text channel in the support server, and one custom command subject to prior approval and technical/safety limits. |
+| Platinum | All Diamond benefits plus the exclusive Platinum role, prioritized support and suggestions, and one complete game concept subject to prior approval, feasibility, safety, and development scope. |
+
+Custom commands and games must be discussed and approved before work begins. Membership does not guarantee acceptance of unsafe, abusive, legally problematic, technically infeasible, or economy-breaking requests.
 
 ## Membership and support
 
