@@ -16,7 +16,7 @@ These are the same payment destinations shown by the bot's `/donate` command.
 
 After donating, join [The Casino support server](https://discord.gg/ggUksVN) so the team can verify the donation and activate the appropriate perks. The bot cannot automatically identify every external payment.
 
-Use `/donatorperks` in Discord or read [Donator Membership](donator.md) to compare Bronze through Platinum benefits. Once access is active, `/donator` claims the eligible daily reward and any available weekly bundle.
+Use `/donatorperks` in Discord or read [Donator Membership](donator.md#monthly-membership-bundles) to compare Bronze through Platinum prices, complete monthly renewal bundles, and recurring benefits. Staff grants the selected bundle after each verified monthly payment. Once access is active, `/donator` separately claims the eligible daily reward and any available weekly bundle.
 
 {% hint style="warning" %}
 Only use the payment destinations listed above or displayed by `/donate`. Staff never need your Discord password, login token, payment-account password, or session credentials.
