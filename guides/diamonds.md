@@ -37,7 +37,9 @@ The Diamond Market offers direct access to a dozen optional feature supplies. Th
 | Small Blind Chip | 1 chip | 80 💎 |
 | Monopoly Table Pack | 5 Tables | 100 💎 |
 
-Run `/diamonds market` for descriptions and redemption names. Use `/diamonds redeem <reward> [amount]` to purchase. Multiple bundles can be bought in one transaction, up to 25.
+Run `/diamonds market` to enter the interactive Diamond Exchange. Choose a product from the organized catalog, browse with Previous and Next, set a quantity from 1 to 25, review the live total and remaining balance, and purchase without leaving the storefront. The display confirms inventory delivery and updates the owned quantity immediately.
+
+`/diamonds redeem <reward> [amount]` remains available as a direct slash-command alternative. Multiple bundles can be bought in one transaction, up to 25.
 
 ### Premium crates
 
